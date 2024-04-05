@@ -1,0 +1,12 @@
+#cont{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+#cont>div{
+    border: 1px solid black;
+    min-width: 250px;
+    text-align: center;
+}
